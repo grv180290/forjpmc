@@ -13,5 +13,5 @@ spec:
   project: default
   source:
        path: appwithpvc
-       repoURL: https://github.com/gopaljayanthi/forjpmc.git
+       repoURL: https://github.com/grv180290/forjpmc.git
        targetRevision: HEAD
